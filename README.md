@@ -3,6 +3,6 @@ Code for generating the analysis and plots for the best performing model (SVR-ba
 
 # Ensemble machine learning for predicting nanoparticle stabilized CO2 foam rheology in unconventional reservoir fracturing
 
-Tolu A. Olukoga and Yin Feng
+Tolu A. Olukoga and Yin Feng, 2021
 University of Louisiana at Lafayette, US
 *under-review*
