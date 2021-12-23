@@ -1,5 +1,5 @@
 # How thick is it anyway?
-#### Predict key property using ensemble machine learning
+### Predict key property using ensemble machine learning
 
 ## Objective
 Applied supervised machine learning techniques to predict the apparent viscosity of nanoparticle stabilized CO2 foam for hydraulic fracturing. Blending, a variant of stacking ensemble learning technique explored as alternative for expensive laboratory experiments. Also, determine the influence of various parameters on apparent viscosity prediction.
